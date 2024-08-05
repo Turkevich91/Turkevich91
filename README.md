@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Vitalii 🇺🇦
-- 👀 I’m interested in Python, JS, WEB and production automation
+- 👀 I’m interested in AI, and automation
 - 🌱 I’m currently learning iOS development
 - 💞️ I’m looking to collaborate on some interesting project.
 - 📫 How to reach me: vetalturkevich+github@gmail.com
