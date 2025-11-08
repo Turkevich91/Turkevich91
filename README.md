@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vitalii 🇺🇦
 - 👀 I’m interested in AI, and automation
-- 🌱 I’m currently learning iOS development
+- 🌱 I’m currently learning ML, CV and other modern technology.
 - 💞️ I’m looking to collaborate on some interesting project.
 - 📫 How to reach me: vetalturkevich+github@gmail.com
 
